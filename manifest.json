@@ -1,0 +1,30 @@
+{
+  
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "jade-semolina-e7238c.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "jade-semolina-e7238c.netlify",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/Assets.xcassets/32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "assets/Assets.xcassets/180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "assets/Assets.xcassets/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
+
