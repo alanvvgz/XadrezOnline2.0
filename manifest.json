@@ -1,27 +1,46 @@
 {
   
-  "background_color": "#ffffff",
+  "background_color": "#fff",
   "dir": "ltr",
-  "display": "standalone",
-  "name": "jade-semolina-e7238c.netlify",
+  "display": "fullscreen",
+  "name": "Xadrez Online",
   "orientation": "any",
-  "scope": "/",
-  "short_name": "jade-semolina-e7238c.netlify",
-  "start_url": "/",
-  "theme_color": "#ffffff",
+  "short_name": "Xadrez On",
+  "start_url": "index.html",
+  "theme_color": "#1e90ff",
   "icons": [
     {
-      "src": "assets/Assets.xcassets/32.png",
+      "src": "assets/img/32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "assets/Assets.xcassets/180.png",
+      "src": "assets/img/48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/img/72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "assets/img/128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "assets/img/256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "assets/img/180.png",
       "type": "image/png",
       "sizes": "180x180"
     },
     {
-      "src": "assets/Assets.xcassets/512.png",
+      "src": "assets/img/512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
